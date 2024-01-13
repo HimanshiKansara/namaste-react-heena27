@@ -1,8 +1,30 @@
 Bundlere - 1)webpack, 2)parcel, 3)weid
     install parcel => npm i -D parcel //(-D install as dev Dependency)
+    Parcel -> Dev Build,
+            - Local server
+            - HMR - Hot Module Replacement
+            - using File Watching Algo - written in C++
+            - chaching - faster builds
+            - Image Optimization
+            - Minification, Conpression
+            - Bundling
+            - consistent Hashing
+            - code spliting
+            - Differential Bundling - support older browser
+            - Diagnostic
+            - Error Handling
+            - HTTPS 
+            - Tree Shaking (remove unused code for us)
+            - Web worker, Service Worker 
+
 Dependencies => 
    - Dev Dependencie (requ for developement)
    - Normal Dependencie (production)
 
 -(^ - upgrade minor version freez major)
 -(~ - upgrade minor and patch version freez major)
+
+App Run -> npx parcel ./index.html (npx-execute a package)
+
+
+---JSX elements
