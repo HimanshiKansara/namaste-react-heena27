@@ -1,8 +1,0 @@
-Bundlere - 1)webpack, 2)parcel, 3)weid
-    install parcel => npm i -D parcel //(-D install as dev Dependency)
-Dependencies => 
-   - Dev Dependencie (requ for developement)
-   - Normal Dependencie (production)
-
--(^ - upgrade minor version freez major)
--(~ - upgrade minor and patch version freez major)
